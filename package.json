@@ -1,5 +1,5 @@
 {
-  "name": "03---create-workspace-and-channel-management-apis---slack",
+  "name": "slack-backend-demo",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
